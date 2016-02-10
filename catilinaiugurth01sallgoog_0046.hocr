@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./catilinaiugurth01sallgoog_0046.png"; bbox 0 0 3028 4852; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 344 1391 1188 1536">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 344 1391 1188 1536">
+     <span class='ocr_line' id='line_1_1' title="bbox 344 1391 1188 1536; baseline 0 -49"><span class='ocrx_word' id='word_1_1' title='bbox 344 1392 397 1487; x_wconf 79' lang='lat' dir='ltr'><strong>O.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 445 1391 786 1536; x_wconf 71' lang='lat' dir='ltr'><strong>SALLUSTI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 832 1391 1067 1489; x_wconf 77' lang='lat' dir='ltr'><strong>CRISPI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1184 1423 1188 1430; x_wconf 72' lang='lat'><em>,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 276 1723 949 1858">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 276 1723 949 1858">
+     <span class='ocr_line' id='line_1_2' title="bbox 276 1723 949 1858; baseline -0.009 2"><span class='ocrx_word' id='word_1_5' title='bbox 276 1803 282 1816; x_wconf 91' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 468 1723 949 1858; x_wconf 80' lang='lat' dir='ltr'><strong>OATILINA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 236 2399 1317 2501">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 236 2399 1317 2501">
+     <span class='ocr_line' id='line_1_3' title="bbox 236 2399 1317 2501; baseline -0.01 -4"><span class='ocrx_word' id='word_1_7' title='bbox 236 2416 315 2498; x_wconf 88' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 347 2399 807 2501; x_wconf 79' lang='lat' dir='ltr'><strong>CONIURATIONE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 838 2415 1167 2500; x_wconf 86' lang='lat' dir='ltr'><strong>CATILINAE</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1313 2475 1317 2486; x_wconf 89' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 621 2731 788 2808">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 621 2731 788 2808">
+     <span class='ocr_line' id='line_1_4' title="bbox 621 2731 788 2808; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 621 2731 788 2808; x_wconf 85' lang='lat' dir='ltr'><strong>LIBER.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1518 4852">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1518 4852">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1518 4852; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1518 4852; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
